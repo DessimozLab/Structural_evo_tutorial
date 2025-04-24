@@ -1,2 +1,36 @@
 # Structural_evo_tutorial
 An introduction to structural phylogenetics
+## Getting Started
+
+Follow these steps to set up the tutorial environment:
+
+1. Change to your home directory:
+    ```bash
+    cd $HOME
+    ```
+
+2. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/Structural_evo_tutorial.git
+    cd Structural_evo_tutorial
+    ```
+
+3. Install the latest version of [Mamba](https://mamba.readthedocs.io/en/latest/):
+    ```bash
+    conda install mamba -c conda-forge
+    ```
+
+4. Create the environment from the `env.yaml` file:
+    ```bash
+    mamba env create -f env.yaml
+    ```
+
+5. Activate the environment:
+    ```bash
+    conda activate structural_evo_env
+    ```
+
+6. Start Jupyter Lab to begin the exercises (located in the `notebooks` folder):
+    ```bash
+    jupyter lab
+    ```
