@@ -11,7 +11,7 @@ Follow these steps to set up the tutorial environment:
 
 2. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Structural_evo_tutorial.git
+    git clone https://github.com/DessimozLab/Structural_evo_tutorial
     cd Structural_evo_tutorial
     ```
 
