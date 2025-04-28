@@ -15,7 +15,7 @@ Follow these steps to set up the tutorial environment:
     cd Structural_evo_tutorial
     ```
 
-3. Install the latest version of [Mamba](https://mamba.readthedocs.io/en/latest/):
+3. Install the latest version of [Miniforge](https://github.com/conda-forge/miniforge/):
     ```bash
     wget "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 
