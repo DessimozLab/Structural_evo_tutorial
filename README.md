@@ -17,7 +17,10 @@ Follow these steps to set up the tutorial environment:
 
 3. Install the latest version of [Mamba](https://mamba.readthedocs.io/en/latest/):
     ```bash
-    conda install mamba -c conda-forge
+    wget "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
+
+    bash Miniforge3-$(uname)-$(uname -m).sh
+
     ```
 
 4. Create the environment from the `env.yaml` file:
