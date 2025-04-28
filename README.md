@@ -30,10 +30,10 @@ Follow these steps to set up the tutorial environment:
 
 5. Activate the environment:
     ```bash
-    conda activate structural_evo_env
+    mamba activate structural_evo_env
     ```
 
-6. Start Jupyter Lab to begin the exercises (located in the `notebooks` folder):
+6. Start Jupyter Lab to begin the exercises (located in the main folder):
     ```bash
     jupyter lab
     ```
